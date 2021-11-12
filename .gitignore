@@ -1,0 +1,11 @@
+# Garbage files
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# SASS Files
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
